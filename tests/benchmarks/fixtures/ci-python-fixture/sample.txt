@@ -1,3 +1,0 @@
-This is a sample file.
-It has multiple lines.
-Used for testing Python analysis.
